@@ -17,7 +17,7 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 - CSS3
 - JavaScript
 
-## Live Demo
+## Live Demo: https://myportfoliojs-vqdo.vercel.app/
 
 
 ## Installation
